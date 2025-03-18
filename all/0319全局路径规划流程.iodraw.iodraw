@@ -10,7 +10,7 @@
         <mxCell id="pgOBZqP250-zThdpH7BA-2" value="GNSS&lt;div&gt;传感器&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="40" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pgOBZqP250-zThdpH7BA-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;nmea_navsat_driver 节点&lt;/font&gt;&lt;/span&gt;&lt;div&gt;接收Navsat格式的 GNSS 数据&lt;/div&gt;&lt;div&gt;并发布到 /fix 话题&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="pgOBZqP250-zThdpH7BA-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;nmea_navsat_driver 节点&lt;/font&gt;&lt;/span&gt;&lt;div&gt;接收Navsat格式的 GNSS 数据&lt;/div&gt;&lt;div&gt;并发布到 /fix 话题&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pgOBZqP250-zThdpH7BA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="pgOBZqP250-zThdpH7BA-8" source="pgOBZqP250-zThdpH7BA-3">
