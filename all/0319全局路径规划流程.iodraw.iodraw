@@ -33,8 +33,8 @@
         <mxCell id="pgOBZqP250-zThdpH7BA-11" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;global_path_planner 节点&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;订阅校准后的 /gnss 数据&lt;/font&gt;&lt;br&gt;加载 GeoJSON 格式地图&lt;/div&gt;&lt;div&gt;解析路径点和连接关系，使用 &lt;font color=&quot;#3399ff&quot;&gt;A* 算法&lt;/font&gt;规划全局路径&lt;br&gt;根据&lt;font color=&quot;#ff6666&quot;&gt;当前位置发布 /next_node，提供下一个导航点&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="484" width="326" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pgOBZqP250-zThdpH7BA-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="20" width="60" height="30" as="geometry" />
+        <mxCell id="pgOBZqP250-zThdpH7BA-14" value="全局路径规划器流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
