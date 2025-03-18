@@ -18,7 +18,7 @@
             <mxPoint x="283" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pgOBZqP250-zThdpH7BA-8" value="&lt;font color=&quot;#0055ff&quot;&gt;gnss_calibration 节点&lt;/font&gt;&lt;div&gt;订阅 /fix 话题，记录车辆静止时的初始位置，计算静态误差&lt;/div&gt;&lt;div&gt;通过发布 /gnss 话题输出校准后的 GNSS 数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pgOBZqP250-zThdpH7BA-8" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;nmea_navsat_driver 节点&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;订阅 /fix 话题，记录车辆静止时的初始位置，计算静态误差&lt;/div&gt;&lt;div&gt;通过发布 /gnss 话题输出校准后的 GNSS 数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="165" y="250" width="235" height="120" as="geometry" />
         </mxCell>
       </root>
