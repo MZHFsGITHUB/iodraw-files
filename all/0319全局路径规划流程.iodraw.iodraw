@@ -24,10 +24,13 @@
         <mxCell id="pgOBZqP250-zThdpH7BA-8" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;gnss_calibration 节点&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;订阅 /fix 话题&lt;/font&gt;&lt;/div&gt;&lt;div&gt;记录车辆静止时的初始位置，计算静态误差&lt;/div&gt;&lt;div&gt;通过&lt;font color=&quot;#ff6666&quot;&gt;发布 &lt;b&gt;/gnss&lt;/b&gt; 话题&lt;/font&gt;输出校准后的 GNSS 数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="275" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="pgOBZqP250-zThdpH7BA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pgOBZqP250-zThdpH7BA-10" target="pgOBZqP250-zThdpH7BA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pgOBZqP250-zThdpH7BA-10" value="geojson地图" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="390" y="260" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pgOBZqP250-zThdpH7BA-11" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;gnss_calibration 节点&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;订阅 /fix 话题&lt;/font&gt;&lt;/div&gt;&lt;div&gt;记录车辆静止时的初始位置，计算静态误差&lt;/div&gt;&lt;div&gt;通过&lt;font color=&quot;#ff6666&quot;&gt;发布 &lt;b&gt;/gnss&lt;/b&gt; 话题&lt;/font&gt;输出校准后的 GNSS 数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="pgOBZqP250-zThdpH7BA-11" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;global_path_planner 节点&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;订阅 /fix 话题&lt;/font&gt;&lt;/div&gt;&lt;div&gt;记录车辆静止时的初始位置，计算静态误差&lt;/div&gt;&lt;div&gt;通过&lt;font color=&quot;#ff6666&quot;&gt;发布 &lt;b&gt;/gnss&lt;/b&gt; 话题&lt;/font&gt;输出校准后的 GNSS 数据&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="154" y="414" width="275" height="90" as="geometry" />
         </mxCell>
       </root>
