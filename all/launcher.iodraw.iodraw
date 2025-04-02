@@ -25,8 +25,8 @@
         <mxCell id="Yot9UUEw24te3WQX3Lio-9" value="gnss_global_payh_planner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yot9UUEw24te3WQX3Lio-12" value="gnss_calibration_launch.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="190" height="60" as="geometry" />
+        <mxCell id="Yot9UUEw24te3WQX3Lio-12" value="nmea_serial.launch.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
