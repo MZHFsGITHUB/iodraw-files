@@ -43,6 +43,9 @@
         <mxCell id="Yot9UUEw24te3WQX3Lio-17" value="nmea_navsat_driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="790" y="100" width="190" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Yot9UUEw24te3WQX3Lio-19" value="gnss_global_payh_planner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="190" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
