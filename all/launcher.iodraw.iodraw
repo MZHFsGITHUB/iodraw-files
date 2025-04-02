@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yot9UUEw24te3WQX3Lio-26" value="/gnss" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="270" width="100" height="60" as="geometry" />
+          <mxGeometry x="740" y="200" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
