@@ -62,12 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yot9UUEw24te3WQX3Lio-26" value="/fix" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="210" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Yot9UUEw24te3WQX3Lio-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Yot9UUEw24te3WQX3Lio-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="895" y="170" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="630" y="270" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
