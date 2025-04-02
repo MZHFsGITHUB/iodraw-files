@@ -25,6 +25,9 @@
         <mxCell id="Yot9UUEw24te3WQX3Lio-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yot9UUEw24te3WQX3Lio-6" target="Yot9UUEw24te3WQX3Lio-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Yot9UUEw24te3WQX3Lio-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yot9UUEw24te3WQX3Lio-6" target="Yot9UUEw24te3WQX3Lio-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Yot9UUEw24te3WQX3Lio-6" value="global2local_tf_launch.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="460" width="190" height="60" as="geometry" />
         </mxCell>
@@ -49,7 +52,7 @@
         <mxCell id="Yot9UUEw24te3WQX3Lio-19" value="global2local_tf" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="380" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yot9UUEw24te3WQX3Lio-21" value="rviz_and_imu_launch&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yot9UUEw24te3WQX3Lio-21" value="rviz_and_imu.&lt;span style=&quot;background-color: initial;&quot;&gt;launch&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.py&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="530" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
