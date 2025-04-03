@@ -131,8 +131,8 @@
         <mxCell id="DLmIL3uT26vQKicvdmLo-1" value="/next_local" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="775" y="750" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DLmIL3uT26vQKicvdmLo-3" value="全局路径规划器流程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="338" y="60" width="210" height="30" as="geometry" />
+        <mxCell id="DLmIL3uT26vQKicvdmLo-3" value="全局路径规划器节点、启动器与信息流" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="60" y="65" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
