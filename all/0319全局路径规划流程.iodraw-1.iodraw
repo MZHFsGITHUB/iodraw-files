@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="7B8SYG4nvJ85siYkQwa1">
-    <mxGraphModel dx="1733" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           <mxGeometry x="280" y="740" width="326" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qRMnMw5Ixo9ZT-1CWeB6-3" value="&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;&lt;font color=&quot;#0062ff&quot;&gt;wit_ros2_imu 节点&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;接受IMU传感器数据&lt;/font&gt;&lt;br&gt;发布数据到&lt;span style=&quot;background-color: initial; color: rgb(255, 102, 102);&quot;&gt;/imu/raw&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="490" y="484" width="326" height="90" as="geometry" />
+          <mxGeometry x="540" y="574" width="236" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
