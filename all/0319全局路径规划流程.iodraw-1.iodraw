@@ -61,7 +61,7 @@
         <mxCell id="qRMnMw5Ixo9ZT-1CWeB6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qRMnMw5Ixo9ZT-1CWeB6-5" target="qRMnMw5Ixo9ZT-1CWeB6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qRMnMw5Ixo9ZT-1CWeB6-5" value="GNSS&lt;div&gt;传感器&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="qRMnMw5Ixo9ZT-1CWeB6-5" value="IMU&lt;br&gt;&lt;div&gt;传感器&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="628" y="430" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
