@@ -4,18 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-1">
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-1" target="tejGHn8gV1ZFx9bW8IUS-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="403" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-1" value="/fix&lt;br&gt;来自GNSS的&lt;div&gt;初始数据&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="120" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="tejGHn8gV1ZFx9bW8IUS-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="403" y="310" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="343" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-7" target="tejGHn8gV1ZFx9bW8IUS-10">
           <mxGeometry relative="1" as="geometry" />
