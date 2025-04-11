@@ -125,13 +125,18 @@
           <mxGeometry x="670" y="520" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-38" target="tejGHn8gV1ZFx9bW8IUS-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="830" />
+              <mxPoint x="420" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-38" value="发布&lt;br&gt;校准后的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-40" value="发布的数据话题&lt;br&gt;/gnss" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="890" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="870" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
