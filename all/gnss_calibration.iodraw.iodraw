@@ -85,14 +85,14 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-24" value="实验测定的&lt;div&gt;稳态偏置&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-26" target="tejGHn8gV1ZFx9bW8IUS-22">
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-26" target="tejGHn8gV1ZFx9bW8IUS-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-26" target="tejGHn8gV1ZFx9bW8IUS-29">
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.511;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-26" target="tejGHn8gV1ZFx9bW8IUS-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-26" value="/fix&lt;br&gt;来自GNSS的&lt;div&gt;持续数据&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="351.5" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-29" value="直接发布&lt;br&gt;校准后的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="640" width="120" height="60" as="geometry" />
