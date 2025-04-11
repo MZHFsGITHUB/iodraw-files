@@ -105,6 +105,9 @@
             <mxPoint x="659" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-35" value="实验测定的&lt;div&gt;稳态偏置&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
