@@ -98,6 +98,9 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-26" value="/fix&lt;br&gt;来自GNSS的&lt;div&gt;持续数据&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-29" target="tejGHn8gV1ZFx9bW8IUS-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-29" value="原始数据&lt;div&gt;加上标准点误差&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -112,6 +115,9 @@
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-35" value="标准点经纬度" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-38" value="发布&lt;br&gt;校准后的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
