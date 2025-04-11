@@ -64,8 +64,13 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-16" value="运行模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="405" width="123" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-17" target="tejGHn8gV1ZFx9bW8IUS-40">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-17" target="tejGHn8gV1ZFx9bW8IUS-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="830" />
+              <mxPoint x="420" y="830" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-17" value="发布&lt;br&gt;校准后的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="203" y="640" width="120" height="60" as="geometry" />
