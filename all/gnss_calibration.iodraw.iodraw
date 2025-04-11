@@ -50,8 +50,8 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-10" value="5次数据是否&lt;div&gt;稳定在1m内&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="380" width="123" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-16" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="500" width="123" height="80" as="geometry" />
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-16" value="运行模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="505" width="123" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
