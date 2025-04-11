@@ -53,6 +53,11 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-16" target="tejGHn8gV1ZFx9bW8IUS-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-19" value="简单模式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tejGHn8gV1ZFx9bW8IUS-18">
+          <mxGeometry x="-0.3276" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-16" value="运行模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="505" width="123" height="80" as="geometry" />
         </mxCell>
