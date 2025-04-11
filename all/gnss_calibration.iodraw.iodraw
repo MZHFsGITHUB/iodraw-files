@@ -22,7 +22,7 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-4" value="实验测定的&lt;div&gt;稳态偏置&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-7" value="持续记录5次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-7" value="持续记录5次数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
