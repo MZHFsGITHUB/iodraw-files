@@ -61,7 +61,7 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-16" value="运行模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="505" width="123" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tejGHn8gV1ZFx9bW8IUS-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-17" value="直接发布校准后的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
