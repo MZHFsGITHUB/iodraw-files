@@ -88,6 +88,9 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-26" target="tejGHn8gV1ZFx9bW8IUS-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-26" target="tejGHn8gV1ZFx9bW8IUS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-26" value="/fix&lt;br&gt;来自GNSS的&lt;div&gt;持续数据&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351.5" y="520" width="120" height="80" as="geometry" />
         </mxCell>
