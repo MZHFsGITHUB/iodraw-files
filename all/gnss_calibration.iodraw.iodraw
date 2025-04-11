@@ -52,13 +52,22 @@
           <mxGeometry x="351.5" y="405" width="123" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-17" value="直接发布&lt;br&gt;校准后的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="203" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-20" target="tejGHn8gV1ZFx9bW8IUS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-20" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-22" value="原始数据增加偏置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-24" target="tejGHn8gV1ZFx9bW8IUS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tejGHn8gV1ZFx9bW8IUS-24" value="实验测定的&lt;div&gt;稳态偏置&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="600" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
