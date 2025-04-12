@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-1" value="&lt;div&gt;车辆行进过程中&lt;/div&gt;记录书记位置curr&lt;div&gt;目标点next&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="90" width="140" height="60" as="geometry" />
+          <mxGeometry x="330" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JnrU5wVrmI6y_irt0c5G-2" target="JnrU5wVrmI6y_irt0c5G-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,6 +43,9 @@
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-10" value="求得真实到达点与目标点的距离&lt;div&gt;作为额外偏置&lt;/div&gt;&lt;div&gt;记录该偏置及其目标点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="303.75" y="492.57" width="192.5" height="62.43" as="geometry" />
+        </mxCell>
+        <mxCell id="J--V2DTxexRqRB-4-FOV-2" value="当前位置curr是否&lt;div&gt;临近且经过目标点&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="555" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
