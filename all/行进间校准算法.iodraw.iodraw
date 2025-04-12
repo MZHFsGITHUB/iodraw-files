@@ -41,7 +41,7 @@
         <mxCell id="JnrU5wVrmI6y_irt0c5G-4" value="查找上一个实际位置信息，连接两点的线段，与规划轨迹过目标点垂线的交点即为实际到达点" style="whiteSpace=wrap;html=1;rounded=0;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="340" width="195" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-10" value="求得真实到达点与目标点的距离&lt;div&gt;作为额外偏置&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;spacing=4;" parent="1" vertex="1">
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-10" value="求得真实到达点与目标点的距离&lt;div&gt;作为额外偏置&lt;/div&gt;&lt;div&gt;记录该偏置及其目标点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="303.75" y="492.57" width="192.5" height="62.43" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JnrU5wVrmI6y_irt0c5G-27" target="JnrU5wVrmI6y_irt0c5G-1" edge="1">
