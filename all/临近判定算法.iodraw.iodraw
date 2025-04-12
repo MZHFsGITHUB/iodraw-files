@@ -18,8 +18,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-2" target="JnrU5wVrmI6y_irt0c5G-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-2" target="JnrU5wVrmI6y_irt0c5G-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="240" />
+              <mxPoint x="560" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-2" value="当前位置到目标点&lt;div&gt;与规划路径的夹角&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="220" height="100" as="geometry" />
@@ -58,7 +63,7 @@
           <mxGeometry x="325" y="555" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-15" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
