@@ -51,8 +51,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-10" value="求得真实到达点与目标点的距离作为额外偏置" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="325" y="520" width="150" height="60" as="geometry" />
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-10" value="求得真实到达点与目标点的距离作为额外偏置" style="whiteSpace=wrap;html=1;rounded=0;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="290" y="520" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JnrU5wVrmI6y_irt0c5G-27" target="JnrU5wVrmI6y_irt0c5G-1" edge="1">
           <mxGeometry relative="1" as="geometry">
