@@ -10,8 +10,19 @@
         <mxCell id="JnrU5wVrmI6y_irt0c5G-1" value="获取当前位置curr、目标点next、上一节点prev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="60" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-2" target="JnrU5wVrmI6y_irt0c5G-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-6" value="锐角" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JnrU5wVrmI6y_irt0c5G-5">
+          <mxGeometry x="-0.4701" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-2" value="当前位置到目标点&lt;div&gt;与规划路径的夹角&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
