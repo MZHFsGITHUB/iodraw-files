@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-1" value="获取当前位置curr、目标点next、上一节点prev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
