@@ -59,6 +59,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J--V2DTxexRqRB-4-FOV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J--V2DTxexRqRB-4-FOV-2" target="J--V2DTxexRqRB-4-FOV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J--V2DTxexRqRB-4-FOV-2" value="获得到3个可用偏置？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="730" width="180" height="60" as="geometry" />
         </mxCell>
@@ -67,6 +70,9 @@
         </mxCell>
         <mxCell id="J--V2DTxexRqRB-4-FOV-5" value="行进间校准开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J--V2DTxexRqRB-4-FOV-9" value="获得到3个可用偏置？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="830" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
