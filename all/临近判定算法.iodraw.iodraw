@@ -35,14 +35,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-7" target="JnrU5wVrmI6y_irt0c5G-4">
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-7" target="JnrU5wVrmI6y_irt0c5G-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="370" />
-              <mxPoint x="100" y="370" />
+              <mxPoint x="100" y="435" />
               <mxPoint x="100" y="280" />
               <mxPoint x="220" y="280" />
+              <mxPoint x="220" y="330" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-14" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JnrU5wVrmI6y_irt0c5G-13">
+          <mxGeometry x="-0.3196" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-7" value="距离小于阈值？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
