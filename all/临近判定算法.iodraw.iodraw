@@ -27,7 +27,16 @@
         <mxCell id="JnrU5wVrmI6y_irt0c5G-4" value="&lt;div&gt;行进过程中&lt;/div&gt;计算与目标点的距离" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-7" value="距离小于阈值" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="421" y="435" />
+              <mxPoint x="421" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-7" value="距离小于阈值？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="390" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
