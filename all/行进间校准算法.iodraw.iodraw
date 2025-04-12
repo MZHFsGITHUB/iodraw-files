@@ -82,11 +82,14 @@
         <mxCell id="J--V2DTxexRqRB-4-FOV-9" value="3个目标点是否接近直线？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="830" width="180" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J--V2DTxexRqRB-4-FOV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J--V2DTxexRqRB-4-FOV-11" target="J--V2DTxexRqRB-4-FOV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J--V2DTxexRqRB-4-FOV-11" value="求取3个额外偏置平均值，加到稳态偏置中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J--V2DTxexRqRB-4-FOV-14" value="行进间校准开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
