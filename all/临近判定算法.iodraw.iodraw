@@ -97,7 +97,14 @@
           <mxGeometry x="500" y="390" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-24" target="JnrU5wVrmI6y_irt0c5G-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="770" />
+              <mxPoint x="770" y="770" />
+              <mxPoint x="770" y="40" />
+              <mxPoint x="400" y="40" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-24" value="彻底重新规划完整路径" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="535" y="555" width="130" height="60" as="geometry" />
