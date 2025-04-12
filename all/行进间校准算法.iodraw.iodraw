@@ -7,7 +7,7 @@
         <mxCell id="JnrU5wVrmI6y_irt0c5G-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JnrU5wVrmI6y_irt0c5G-1" target="JnrU5wVrmI6y_irt0c5G-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-1" value="&lt;div&gt;车辆行进过程中&lt;/div&gt;获取当前位置curr、目标点next、上一节点prev" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-1" value="&lt;div&gt;车辆行进过程中&lt;/div&gt;记录书记位置curr&lt;div&gt;目标点next&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="60" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JnrU5wVrmI6y_irt0c5G-2" target="JnrU5wVrmI6y_irt0c5G-4" edge="1">
