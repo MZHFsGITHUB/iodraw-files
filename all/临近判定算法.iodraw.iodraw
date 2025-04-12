@@ -72,7 +72,12 @@
         <mxCell id="JnrU5wVrmI6y_irt0c5G-15" value="警告：&lt;div&gt;车辆已经偏航&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JnrU5wVrmI6y_irt0c5G-18" value="距离小于阈值？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-18" value="距离大于第二阈值？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="410" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
