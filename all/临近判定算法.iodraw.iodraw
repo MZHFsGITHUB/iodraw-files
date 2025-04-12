@@ -21,8 +21,14 @@
         <mxCell id="JnrU5wVrmI6y_irt0c5G-2" value="当前位置到目标点&lt;div&gt;与规划路径的夹角&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="190" width="220" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-4" target="JnrU5wVrmI6y_irt0c5G-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-4" value="计算与目标点的距离" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-7" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
