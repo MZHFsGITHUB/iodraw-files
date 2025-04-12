@@ -36,7 +36,7 @@
           <mxGeometry x="290" y="190" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-4" value="查找上一个实际位置信息，连接两点的线段，与规划轨迹过目标点垂线的交点即为实际到达点" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="325" y="330" width="150" height="100" as="geometry" />
+          <mxGeometry x="302.5" y="340" width="195" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JnrU5wVrmI6y_irt0c5G-10" target="JnrU5wVrmI6y_irt0c5G-1" edge="1">
           <mxGeometry relative="1" as="geometry">
