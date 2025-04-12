@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-6" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JnrU5wVrmI6y_irt0c5G-5" vertex="1" connectable="0">
           <mxGeometry x="-0.4701" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JnrU5wVrmI6y_irt0c5G-2" target="JnrU5wVrmI6y_irt0c5G-1" edge="1">
@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-2" value="当前位置curr是否&lt;div&gt;临近且经过目标点&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="190" width="220" height="100" as="geometry" />
+          <mxGeometry x="290" y="200" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-4" value="查找上一个实际位置信息，连接两点的线段，与规划轨迹过目标点垂线的交点即为实际到达点" style="whiteSpace=wrap;html=1;rounded=0;spacing=5;" parent="1" vertex="1">
           <mxGeometry x="302.5" y="340" width="195" height="100" as="geometry" />
