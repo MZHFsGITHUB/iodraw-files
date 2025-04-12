@@ -50,10 +50,10 @@
         <mxCell id="J--V2DTxexRqRB-4-FOV-2" value="获得到3个可用偏置？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="730" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="J--V2DTxexRqRB-4-FOV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="J--V2DTxexRqRB-4-FOV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J--V2DTxexRqRB-4-FOV-5" target="JnrU5wVrmI6y_irt0c5G-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J--V2DTxexRqRB-4-FOV-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J--V2DTxexRqRB-4-FOV-5" value="行进间校准开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
