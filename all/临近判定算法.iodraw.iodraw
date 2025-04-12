@@ -21,9 +21,13 @@
         <mxCell id="JnrU5wVrmI6y_irt0c5G-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnrU5wVrmI6y_irt0c5G-2" target="JnrU5wVrmI6y_irt0c5G-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="240" />
-              <mxPoint x="560" y="310" />
+              <mxPoint x="580" y="240" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnrU5wVrmI6y_irt0c5G-17" value="直角或钝角" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JnrU5wVrmI6y_irt0c5G-16">
+          <mxGeometry x="-0.3873" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JnrU5wVrmI6y_irt0c5G-2" value="当前位置到目标点&lt;div&gt;与规划路径的夹角&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
