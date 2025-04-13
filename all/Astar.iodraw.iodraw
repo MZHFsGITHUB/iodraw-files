@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="enXuF6Mr9zGel1n5FlG3">
-    <mxGraphModel dx="664" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1139" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-14" value="遍历其邻居&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="77" y="530" width="450" height="400" as="geometry" />
+          <mxGeometry x="30" y="500" width="450" height="400" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-17" target="-skZBa8GJbOs6NhiNUc7-18">
           <mxGeometry relative="1" as="geometry" />
@@ -72,10 +72,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-17" value="邻居节点&lt;div&gt;在关闭集？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="555" width="100" height="60" as="geometry" />
+          <mxGeometry x="205" y="525" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-18" value="跳过该邻居节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="562.5" width="96" height="45" as="geometry" />
+          <mxGeometry x="347" y="532.5" width="96" height="45" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-23" target="-skZBa8GJbOs6NhiNUc7-26">
           <mxGeometry relative="1" as="geometry" />
@@ -94,16 +94,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-23" value="邻居节点&lt;div&gt;在开放集？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="650" width="100" height="60" as="geometry" />
+          <mxGeometry x="205" y="620" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-26" target="-skZBa8GJbOs6NhiNUc7-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-26" value="添加到开放集" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="655" width="90" height="50" as="geometry" />
+          <mxGeometry x="63" y="625" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-29" value="计算代价&lt;div&gt;记录路径&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="750" width="90" height="50" as="geometry" />
+          <mxGeometry x="63" y="720" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-31" target="-skZBa8GJbOs6NhiNUc7-34">
           <mxGeometry relative="1" as="geometry" />
@@ -114,10 +114,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-31" value="新的路径&lt;div&gt;更好？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="745" width="100" height="60" as="geometry" />
+          <mxGeometry x="205" y="715" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-34" value="更新路径和代价" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="249" y="860" width="106" height="40" as="geometry" />
+          <mxGeometry x="202" y="830" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
