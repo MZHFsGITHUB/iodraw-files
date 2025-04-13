@@ -12,8 +12,14 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-1" value="A*开始规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-4" target="-skZBa8GJbOs6NhiNUc7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-4" value="初始化开放列表&lt;br&gt;初始化辅助结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-5" value="初始化开放列表&lt;br&gt;初始化辅助结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
