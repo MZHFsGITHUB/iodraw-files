@@ -4,14 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-1" target="-skZBa8GJbOs6NhiNUc7-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-1" target="-skZBa8GJbOs6NhiNUc7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-1" value="A*开始规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-2" value="A*开始规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
