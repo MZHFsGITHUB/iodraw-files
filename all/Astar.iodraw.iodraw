@@ -88,8 +88,8 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-23" value="邻居节点&lt;div&gt;在开放集？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="650" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="62" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-26" value="添加到开放集" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="655" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
