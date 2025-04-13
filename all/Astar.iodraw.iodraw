@@ -35,6 +35,11 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-7" target="-skZBa8GJbOs6NhiNUc7-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-16" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-skZBa8GJbOs6NhiNUc7-15">
+          <mxGeometry x="-0.1407" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-7" value="是终点？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="367" y="380" width="94" height="50" as="geometry" />
         </mxCell>
