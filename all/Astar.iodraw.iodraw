@@ -12,7 +12,7 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-1" value="A*开始规划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-4" value="初始化开放列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-4" value="初始化开放列表&lt;br&gt;初始化其他结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
