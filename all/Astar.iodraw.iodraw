@@ -85,6 +85,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-23" target="-skZBa8GJbOs6NhiNUc7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-23" value="邻居节点&lt;div&gt;在开放集？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="650" width="100" height="60" as="geometry" />
         </mxCell>
@@ -96,6 +99,9 @@
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-29" value="计算代价" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="750" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-31" value="邻居节点&lt;div&gt;在开放集？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="790" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
