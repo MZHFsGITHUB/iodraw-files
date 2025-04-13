@@ -94,7 +94,7 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-26" value="添加到开放集" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="655" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-29" value="添加到开放集" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-29" value="计算代价" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="785" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
