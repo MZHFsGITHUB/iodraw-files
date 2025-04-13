@@ -18,7 +18,7 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-4" value="初始化开放列表&lt;br&gt;初始化辅助结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-5" value="初始化开放列表&lt;br&gt;初始化辅助结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-5" value="在开放列表中&lt;div&gt;取出f(n)最小的节点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
