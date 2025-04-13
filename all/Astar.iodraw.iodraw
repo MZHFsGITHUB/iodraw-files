@@ -52,7 +52,7 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-12" value="A*规划完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-14" target="-skZBa8GJbOs6NhiNUc7-37">
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.14;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-14" target="-skZBa8GJbOs6NhiNUc7-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-14" value="遍历其邻居&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -123,7 +123,13 @@
           <mxGeometry x="202" y="830" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-37" target="-skZBa8GJbOs6NhiNUc7-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="93" y="360" />
+              <mxPoint x="254" y="360" />
+              <mxPoint x="254" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-37" value="处理完毕邻居" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="33" y="370" width="120" height="60" as="geometry" />
