@@ -27,11 +27,16 @@
         <mxCell id="-skZBa8GJbOs6NhiNUc7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-skZBa8GJbOs6NhiNUc7-7" target="-skZBa8GJbOs6NhiNUc7-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-11" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-skZBa8GJbOs6NhiNUc7-10">
+          <mxGeometry x="-0.0852" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-skZBa8GJbOs6NhiNUc7-7" value="是终点？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="285" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-skZBa8GJbOs6NhiNUc7-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="-skZBa8GJbOs6NhiNUc7-9" value="回溯路径&lt;div&gt;生成路径&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
