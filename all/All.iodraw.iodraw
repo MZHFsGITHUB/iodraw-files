@@ -19,8 +19,14 @@
         <mxCell id="82urjjfa9HAxexSNEvmA-5" value="Local Planner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="82urjjfa9HAxexSNEvmA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="82urjjfa9HAxexSNEvmA-8" target="82urjjfa9HAxexSNEvmA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="82urjjfa9HAxexSNEvmA-8" value="GNSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82urjjfa9HAxexSNEvmA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="82urjjfa9HAxexSNEvmA-9" target="82urjjfa9HAxexSNEvmA-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82urjjfa9HAxexSNEvmA-9" value="IMU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
