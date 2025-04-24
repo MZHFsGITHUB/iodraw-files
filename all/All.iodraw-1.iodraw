@@ -58,8 +58,14 @@
         <mxCell id="a86QmRwjCP5g9WDPyrOG-5" value="Global Path" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="a86QmRwjCP5g9WDPyrOG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a86QmRwjCP5g9WDPyrOG-8" target="a86QmRwjCP5g9WDPyrOG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a86QmRwjCP5g9WDPyrOG-8" value="Local Path" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a86QmRwjCP5g9WDPyrOG-10" value="Local Path" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
