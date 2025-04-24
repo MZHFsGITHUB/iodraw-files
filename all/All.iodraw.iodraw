@@ -16,7 +16,7 @@
         <mxCell id="82urjjfa9HAxexSNEvmA-4" value="Lidar(MID360)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="82urjjfa9HAxexSNEvmA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="82urjjfa9HAxexSNEvmA-5" value="Local Planner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
