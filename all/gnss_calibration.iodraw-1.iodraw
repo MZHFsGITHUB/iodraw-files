@@ -144,10 +144,13 @@
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-38" value="发布&lt;br&gt;校准后的数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eMS5158RVHvyPEKywDY5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tejGHn8gV1ZFx9bW8IUS-40" target="eMS5158RVHvyPEKywDY5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tejGHn8gV1ZFx9bW8IUS-40" value="发布的数据话题&lt;br&gt;/gnss" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="870" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eMS5158RVHvyPEKywDY5-1" value="启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eMS5158RVHvyPEKywDY5-1" value="校准完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
