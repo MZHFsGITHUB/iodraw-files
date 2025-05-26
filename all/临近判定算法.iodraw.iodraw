@@ -127,8 +127,8 @@
         <mxCell id="rhPpZj3y3-Rm6JVWJjst-1" value="车辆开始行进" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363.94" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rhPpZj3y3-Rm6JVWJjst-3" value="当前位置到目标点&lt;div&gt;与规划路径的夹角&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="313.94" y="170" width="220" height="100" as="geometry" />
+        <mxCell id="rhPpZj3y3-Rm6JVWJjst-3" value="还有next?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="313.94" y="170" width="106.06" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
